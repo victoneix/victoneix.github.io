@@ -1,6 +1,8 @@
-title: "Olá Mundo =)"
-date: 2026-05-02 00:00:00 +0800
-categories: [Posts]
-tags: [Posts]
+---
+title: "Olá mindo"
+date: 2026-05-02 13:00:00 -0300
+categories: [Geral, Tutoriais]
+tags: [jekyll, teste]
+---
 
 Olá mundo. Esse é o meu blog pessoal feito no github. Estou muito feliz em anunciar ele, pois sempre quis um lugar pessoal para compartilhar meus projetos de jogos.
